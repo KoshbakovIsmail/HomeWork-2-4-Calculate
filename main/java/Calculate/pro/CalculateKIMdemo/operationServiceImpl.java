@@ -1,7 +1,7 @@
 package Calculate.pro.CalculateKIMdemo;
 
 @org.springframework.stereotype.Service
-public class CalculatorServiceImpl implements Service {
+public class operationServiceImpl implements CalculatorService {
 
     public String helloCalculator() {
         return "Hello Calculator";

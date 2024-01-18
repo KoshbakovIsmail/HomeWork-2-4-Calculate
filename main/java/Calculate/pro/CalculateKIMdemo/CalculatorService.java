@@ -1,6 +1,6 @@
 package Calculate.pro.CalculateKIMdemo;
 
-public interface Service {
+public interface CalculatorService {
 
     public String helloCalculator();
 
